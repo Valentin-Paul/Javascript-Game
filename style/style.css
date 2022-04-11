@@ -1,0 +1,19 @@
+#game {
+    position: relative;
+    background-color: lightgray;
+    height: 100vh;
+}
+
+#player {
+    position:fixed;
+    height: 40px;
+    width: 20px;
+    left: 50%;
+    bottom: 0%;
+    background-color: black;
+}
+
+.bullet {
+    position: absolute;
+    background-color: black;
+}
