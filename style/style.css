@@ -6,8 +6,8 @@
 
 #player {
     position:fixed;
-    height: 40px;
-    width: 20px;
+    height: 15vh;
+    width: 0.5vw;
     left: 50%;
     bottom: 0%;
     background-color: black;
@@ -16,4 +16,9 @@
 .bullet {
     position: absolute;
     background-color: black;
+}
+
+.obstacle {
+    background-color: black;
+    position: absolute;
 }
